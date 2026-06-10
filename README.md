@@ -71,6 +71,11 @@ This repository focuses on **learning and practice**, not production-ready frame
 The goal is to **build strong fundamentals** required for automation testing.
 
 ---
+## 📌 Useful Comments in VS Code
+
+node <path and file_name.js> - To Run JavaScript programme files
+
+---
 
 ## ⭐ If You Find This Useful
 
