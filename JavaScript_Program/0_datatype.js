@@ -1,6 +1,23 @@
 /* 1. Premitive Data type : Simple ; Number, string, boolean , BigInt, Null, undefine 
  2. Non premitivie : Reference ;  - array, Objects, interface, class
 
+ //1. Primitive Types:
+//---------------------
+//   a. NUMBER    : Represents both integer and floating-point numbers.(8 bytes)
+//   b. STRING    : Represents sequences of characters. (2 bytes per character)
+//   c. BOOLEAN   : Represents logical entities and can have two values: true or false. (1 byte)
+//   d. UNDEFINED : A variable that has been declared but not assigned a value has the value undefined.
+//   e. NULL      : Represents the intentional absence of any object value.
+
+//2. Non-Primitive Types:
+//---------------------
+//   a. OBJECT    : Used to store collections of data and more complex entities.
+//   b. ARRAY     : A special type of object used to store ordered collections of values.
+//   c. FUNCTION  : A block of code designed to perform a particular task.
+//   c. CLASS     : A blueprint for creating objects with predefined properties and methods.
+//   d. INTERFACE : A structure that defines the contract in your application. It defines the syntax for classes to follow but does not provide implementation.
+
+
 Number : Size - 8 byets for all number in a variable 
 String : Size 2 byets for each character 
 Boolean : Size 1 bytes = 8 bits */
