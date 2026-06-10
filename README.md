@@ -73,7 +73,7 @@ The goal is to **build strong fundamentals** required for automation testing.
 ---
 ## 📌 Useful Comments in VS Code
 
-node <path and file_name.js> - To Run JavaScript programme files
+node path_file_name.js - To Run JavaScript programme files
 
 ---
 
